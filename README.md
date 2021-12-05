@@ -6,13 +6,14 @@ Este projeto objetiva aproveitar-se do cotidiano uso da TV digital para desenvol
 # Abstract
 This project aims to take advantage of the everyday use of digital TV to develop a product for residential application capable of automate the targeting of a receiving antenna, relating it to the location of the broadcasting station of the selected channel by using its geographic coordinates. The efficient positioning of the antenna will be responsible for increasing the quality of the signal sent that is reproduced in the user’s final device. Be that as it may, it is planned to use the end user’s mobile device as a remote control, capable of controlling a TV from an application developed for Android as well as directing the antenna to the selected channel station, which it occurs through the application’s communication via socket with a microcontroller, aside with a motor rotation function and, consequently, the metallic pressure coupled to it in the modeled angle. The results obtained with the development of this work clearly demonstrate the importance of a link with proper conditions of line of sight when related to a link between two wireless communication stations and how effective its automatic routing is in a home scenario.
 
+# Referências
 
 Este projeto tem como referência os seguites repositórios:
 
-# Samsungctl
+- Samsungctl
 https://github.com/Ape/samsungctl
 
-# Plyer (GPS)
+- Plyer (GPS)
 https://github.com/kivy/plyer/tree/master/examples/gps
 
 Projeto desenvolvido por Danilo Barros e Janderson Barboza.
